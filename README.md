@@ -28,14 +28,15 @@
 <details>
 <summary>Project Architecture</summary>
   
-![architect img](https://github.com/insurance-m-project/.github/assets/90203250/dfc2cef3-d31b-446d-af03-9b4f4fa94ac8)
+![Project Architecutre](https://github.com/insurance-m-project/.github/assets/90203250/9feea4d3-7a15-443f-a23d-5e9c455d565b)
 </details>
 
 ## Project Flow
 <details>
 <summary>Project Flow</summary>
-  
-![copy](https://github.com/insurance-m-project/.github/assets/90203250/cc6dd77a-a6a0-4dda-b40f-36e7ded99f27)
+
+
+![flow](https://github.com/insurance-m-project/.github/assets/90203250/8409aceb-6759-4d58-8852-df2da6d06c9c)
 </details>
 
 <br> 
